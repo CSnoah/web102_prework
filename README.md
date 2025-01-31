@@ -24,7 +24,7 @@ A drop dopdown list the allows users to select a specfic game by its name
 
 Here's a walkthrough of implemented features:
 
-<video src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/6Ov0Oru.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 LICEcap 
